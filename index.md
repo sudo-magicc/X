@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "X-UA"
   text: "Xinfo Center"
-  tagline: My great project tagline
+  tagline: The key to immortality is to live a life worth remembering
   actions:
     - theme: brand
       text: Markdown Examples
