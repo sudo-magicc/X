@@ -3,23 +3,28 @@
 layout: home
 
 hero:
-  name: "X-UA"
-  text: "Xinfo Center"
-  tagline: The key to immortality is to live a life worth remembering
-  actions:
-    - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
-    - theme: alt
-      text: API Examples
-      link: /api-examples
+  name: "Lenovo Z5s"
+  text: "List of custom roms for Lenovo Z5s"
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Custom ROMS
+    details: List of custom firmware of all versions
+    link: /roms/
+  - title: Recovery
+    details: List of custom recoveries such as TWRP
+    link: /roms/recovery/
+  - title: Instructions
+    link: /guides/
+    details: Here you will learn how to flash custom firmware
+  - title: Device Sources
+    link: /roms/sources
+    details: Phone sources under free license
+  - title: Community
+    link: /roms/community
+    details: Links to the channel and community chats
+  - title: Specifications
+    link: https://www.gsmarena.com/lenovo_z5s-9436.php
+    details: Read specifications from GSMArena
+
 ---
 

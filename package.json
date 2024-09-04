@@ -1,7 +1,17 @@
 {
+  "type": "module",
   "scripts": {
-    "docs:dev": "vitepress dev config",
-    "docs:build": "vitepress build config",
-    "docs:preview": "vitepress preview config"
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.2",
+    "stylus": "^0.62.0",
+    "vitepress": "^1.1.4"
+  },
+  "dependencies": {
+    "@iconify-prerendered/vue-mdi": "0.23.1689058119",
+    "feed": "^4.2.2"
   }
 }
