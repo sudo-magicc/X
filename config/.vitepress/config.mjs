@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "X-UA",
-  description: "Xinfo Center",
+  title: "X",
+  description: "X",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
